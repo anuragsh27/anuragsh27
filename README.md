@@ -1,8 +1,11 @@
+![MasterHead](https://img.freepik.com/free-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-870.jpg?w=800)
 <h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47wge150jh5xljkwabwcapykds3xhpf42v2ehlz87b&rid=giphy.gif&ct=g">
-<p align='center'>
+<p align='center'>                            
+   <img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU">
+</p>  
+<h3 align='center'>
   A Passionate Programmer from India.
-</p>
+</h3>
 
 <p align='center'>
   
@@ -24,13 +27,13 @@
   
 </p>
 
-<p align='center'>
+<h3 align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
+</h3>
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
