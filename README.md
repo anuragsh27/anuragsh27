@@ -11,9 +11,7 @@
   <a href="https://www.instagram.com/mulesoftstation/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/anush_2710">
-    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg/?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/anush_2710" target="blank"><img src="https://img.shields.io/twitter/follow/anush_2710?logo=twitter&style=for-the-badge" alt="anush_2710" /></a> 
 </p>
 
 <p align='center'>
