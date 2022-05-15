@@ -12,12 +12,11 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://img.youtube.com/vi/<insert-youtube-video-id-here>/default.jpg">
-    <img src="https://img.youtube.com/vi/<insert-youtube-video-id-here>/default.jpg" />        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/anush_2710" target="blank"><img src="https://img.shields.io/twitter/follow/anush_2710?logo=twitter&style=for-the-badge" alt="anush_2710" /></a> </p>
 
