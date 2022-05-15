@@ -12,11 +12,12 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+  <a href="https://img.youtube.com/vi/<insert-youtube-video-id-here>/default.jpg">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
 </p>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
 
 <p align="left"> <a href="https://twitter.com/anush_2710" target="blank"><img src="https://img.shields.io/twitter/follow/anush_2710?logo=twitter&style=for-the-badge" alt="anush_2710" /></a> </p>
 
