@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
-<h3 align="center">A Passionate Programmer</h3>
+<p align='center'>
+  A Passionate Programmer from India.
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/anurag-sharma-59745b20/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mulesoftstation/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <p align="left"> <a href="https://twitter.com/anush_2710" target="blank"><img src="https://img.shields.io/twitter/follow/anush_2710?logo=twitter&style=for-the-badge" alt="anush_2710" /></a> </p>
 
@@ -32,3 +45,5 @@
 anuragsh27/anuragsh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
