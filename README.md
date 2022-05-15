@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47wge150jh5xljkwabwcapykds3xhpf42v2ehlz87b&rid=giphy.gif&ct=g">
 <p align='center'>
   A Passionate Programmer from India.
 </p>
