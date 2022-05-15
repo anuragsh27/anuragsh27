@@ -11,11 +11,11 @@
   <a href="https://www.instagram.com/mulesoftstation/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/anush_2710"><img src="https://img.shields.io/twitter/follow/anush_2710?style=for-the-badge&logo=twitter&logoColour=blue" alt="anush_2710" /></a> 
+ <!--- <a href="https://twitter.com/anush_2710"><img src="https://img.shields.io/twitter/follow/anush_2710?style=for-the-badge&logo=twitter&logoColour=blue" alt="anush_2710" /></a> --->
   
   <a href="https://www.youtube.com/c/MuleSoftStation"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/eddiejaoude"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=blue" width="102px"></a>
-<a href="https://instagram.com/eddiejaoude"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" width="102px"></a>
+  <a href="https://twitter.com/anush_2710"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=blue" width="102px"></a>
+</a>
   
   
 </p>
