@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;
   
   <a href="https://img.youtube.com/vi/<insert-youtube-video-id-here>/default.jpg">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.youtube.com/vi/<insert-youtube-video-id-here>/default.jpg" />        
   </a>&nbsp;&nbsp;
   
 </p>
