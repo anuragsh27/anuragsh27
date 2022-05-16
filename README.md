@@ -43,7 +43,7 @@
 
 - 🔭 I’m currently working in **Nagarro Software Pvt Ltd.**
 
-- Star the Repositories or fork the repositoried crated by Me
+- Star the Repositories or fork the repositories crated by Me
 
 - 🌱 I’m currently learning **IOT and Machine Learning**
 
