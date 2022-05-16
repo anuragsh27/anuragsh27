@@ -63,7 +63,7 @@
 </p>
 <h3 align="left">Ask any MuleSoft related Queries:</h3>
 <p align="left">
-<a href="https://twitter.com/anush_2710" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="30" width="40" /></a> 
+<a href="https://t.me/muleSoftStation" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="30" width="40" /></a> 
 </p>
 
 </p>
