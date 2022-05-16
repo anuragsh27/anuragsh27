@@ -51,7 +51,7 @@
 
 - 💬 Ask me about **Java, MuleSoft, Python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/anurag-sharma-59745b20/**
+ <!--- - 📫 How to reach me **https://www.linkedin.com/in/anurag-sharma-59745b20/** --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
