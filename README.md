@@ -23,7 +23,9 @@
   <a href="https://twitter.com/anush_2710">
     <img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=blue" width="102px"/>
   </a>&nbsp;&nbsp;
-
+ <a href="https://t.me/muleSoftStation">
+    <img src="https://img.shields.io/badge/Telegram-87CEEB?style=for-the-badge&logo=telegram&logoColor=blue%22 width="80px" />
+  </a>&nbsp;&nbsp;
   
 </p>
 
@@ -56,7 +58,14 @@
 <a href="https://twitter.com/anush_2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anush_2710" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-sharma-59745b20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-sharma-59745b20/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13938503/anurag-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13938503/anurag-sharma" height="30" width="40" /></a>
+
+
 </p>
+<h3 align="left">Ask any MuleSoft related Queries:</h3>
+<p align="left">
+<a href="https://twitter.com/anush_2710" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="anush_2710" height="30" width="40" /></a> 
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
